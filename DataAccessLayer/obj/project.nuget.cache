@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V8+R2QFFf8Fk6+krMnNUagc3ycUMOUGS4sgs3hDKe6GNETuGqrkD0NWg6ISoMd3ishUtNZuMxe84DYCNSNIvbA==",
+  "dgSpecHash": "cr91Oygl0k6bfioEoLkgsJTyDCY/Qd1DLeWJLQ+E6f4dxpVwr6PZpD+uGOUzM1aQRpOch6sO9T0m9RQEqydk7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\.NET Core\\StudentAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\Student Mgt App\\StudentAPI\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rashi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rashi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

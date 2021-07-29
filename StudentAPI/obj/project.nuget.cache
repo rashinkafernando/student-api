@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oEz32onG2spQPuVwTLrS3j2n+TI7AWRw8cKWF0i/PlBO6YrzyYjnFH4WRz9xYlbgzScXGt2GG/3NHcuP+u8Hwg==",
+  "dgSpecHash": "J75EhqSclJLKFbkRL5U/k7SLgzZ1cv0FBQbdo3VbtX3unWOC4LBV68wo4dZyoKSeB1pc+96TNK1uKZhGrzKVRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\.NET Core\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
+  "projectFilePath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\Student Mgt App\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rashi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rashi\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.7\\microsoft.aspnetcore.spaservices.extensions.5.0.7.nupkg.sha512",

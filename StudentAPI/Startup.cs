@@ -37,6 +37,7 @@ namespace StudentAPI
             services.AddHttpClient();
             services.AddTransient<IRepositoryStudent, RepositoryStudent>();
             services.AddTransient<IRepositoryCourse, RepositoryCourse>();
+            services.AddTransient<IRepositoryGrade, RepositoryGrade>();
             services.AddTransient<StudentService, StudentService>();
             services.AddTransient<CourseService, CourseService>();
             services.AddSwaggerGen(c =>

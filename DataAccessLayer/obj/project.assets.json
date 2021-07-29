@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\.NET Core\\StudentAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\Student Mgt App\\StudentAPI\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\.NET Core\\StudentAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\Student Mgt App\\StudentAPI\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\rashi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\.NET Core\\StudentAPI\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\rashi\\OneDrive\\Documents\\Projects\\Student Mgt App\\StudentAPI\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
